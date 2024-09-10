@@ -1,0 +1,101 @@
+{
+    "produtos":[
+        {
+            "id":1,
+            "titulo": "Vestido Laranja",
+            "preco": 158.63,
+            "descricao": "Vestido longo florido laranja",
+            "img":"img/roupas/vestLaranja/imgG.jpg",
+            "imgsmall0":"img/roupas/vestLaranja/imgsmall0.jpg",
+            "imgsmall1": "img/roupas/vestLaranja/imgsmall1.jpg" ,
+            "imgsmall2": "img/roupas/vestLaranja/imgsmall2.jpg" ,
+            "categoria":3,
+            "quantidade": 0
+        },
+        {
+            "id":2,
+            "titulo": "Cropped Branco",
+            "preco": 109.09,
+            "descricao": "Cropped branco de alfaiataria",
+            "img":"img/roupas/cropedBranco/imgG.jpg",
+            "imgsmall0":"img/roupas/cropedBranco/imgsmall0.jpg",
+            "imgsmall1": "img/roupas/cropedBranco/imgsmall1.jpg" ,
+            "imgsmall2": "img/roupas/cropedBranco/imgsmall2.jpg",
+            "categoria": 1,
+            "quantidade": 0
+        },
+        
+        {
+            "id":3,
+            "titulo": "Short Azul",
+            "preco": 89.35,
+            "descricao": "Shorts de linho azul",
+            "img":"img/roupas/shortAzul/imgG.jpg",
+            "imgsmall0":"img/roupas/shortAzul/imgsmall0.jpg",
+            "imgsmall1": "img/roupas/shortAzul/imgsmall1.jpg" ,
+            "imgsmall2": "img/roupas/shortAzul/imgsmall2.jpg" ,
+            "categoria": 2,
+            "quantidade": 0
+        },
+        {
+            "id":4,
+            "titulo": "Vestido Branco",
+            "preco": 196.54,
+            "descricao": "Vestido longo branco ",
+            "img":"img/roupas/vestBranco/imgG.jpg",
+            "imgsmall0":"img/roupas/vestBranco/imgsmall0.jpg",
+            "imgsmall1": "img/roupas/vestBranco/imgsmall1.jpg" ,
+            "imgsmall2": "img/roupas/vestBranco/imgsmall2.jpg" ,
+            "categoria": 3,
+            "quantidade": 0
+        },
+        {
+            "id":5,
+            "titulo": "Vestido Preto",
+            "preco": 123.65,
+            "descricao": "Vestido curto preto",
+            "img":"img/roupas/vestPreto/imgG.jpg",
+            "imgsmall0":"img/roupas/vestPreto/imgsmall0.jpg",
+            "imgsmall1": "img/roupas/vestPreto/imgsmall1.jpg" ,
+            "imgsmall2": "img/roupas/vestPreto/imgsmall2.jpg", 
+            "categoria": 3,
+            "quantidade": 0
+        },
+        {
+            "id":6,
+            "titulo": "Vestido Roxo",
+            "preco": 184.25,
+            "descricao": "Vestido roxo chemise",
+            "img":"img/roupas/vestRoxo/imgG.jpg",
+            "imgsmall0":"img/roupas/vestRoxo/imgsmall0.jpg",
+            "imgsmall1": "img/roupas/vestRoxo/imgsmall1.jpg" ,
+            "imgsmall2": "img/roupas/vestRoxo/imgsmall2.jpg",
+            "categoria":3,
+            "quantidade": 0
+        },
+        {
+            "id":7,
+            "titulo": "Vestido Areia",
+            "preco": 184.36,
+            "descricao": "Vestido curto areia",
+            "img":"img/roupas/vestEstampado/imgG.jpg",
+            "imgsmall0":"img/roupas/vestEstampado/imgsmall0.jpg",
+            "imgsmall1":"img/roupas/vestEstampado/imgsmall1.jpg",
+            "imgsmall2": "img/roupas/vestEstampado/imgsmall2.jpg",
+            "categoria": 3,
+            "quantidade": 0
+        },
+        {
+            "id":8,
+            "titulo": "Vestido Verde",
+            "preco": 203.65,
+            "descricao": "Vestido midi verde",
+            "img":"img/roupas/vestVerde/imgG.jpg",
+            "imgsmall0":"img/roupas/vestVerde/imgsmall0.jpg",
+            "imgsmall1": "img/roupas/vestVerde/imgsmall1.jpg",
+            "imgsmall2": "img/roupas/vestVerde/imgsmall2.jpg",
+            "categoria": 3,
+            "quantidade": 0
+        }
+    ]
+}
